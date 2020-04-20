@@ -22,6 +22,10 @@ Prototype made for the Dhishna Make-A-Ton 2019 hosted by CUSAT.
 
 #### Project Roadmap
 
-- [x] MVP using fetching data from wikipedia articles
+- [x] MVP using data from wikipedia articles
 - [ ] Input of links to sites and documents(pdf, docs) as corpus
 - [ ] Account system to track progress (firebase)
+
+##### License
+
+MIT licensed. See LICENSE.md
