@@ -8,7 +8,7 @@
     "parcel": "^2.0.0-alpha.3.2"
   },
   "dependencies": {
-    "react": "^16.13.0",
+    "react": "^16.13.1",
     "react-dom": "^16.13.0"
   }
 }
