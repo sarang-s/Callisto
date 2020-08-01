@@ -4,7 +4,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^16.9.44",
-    "@types/react-dom": "^16.9.5",
+    "@types/react-dom": "^16.9.8",
     "parcel": "^2.0.0-alpha.3.2"
   },
   "dependencies": {
